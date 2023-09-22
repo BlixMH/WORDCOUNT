@@ -1,5 +1,5 @@
 # Blix Modeweg-hansen
-# 2007
+
 # WORD_COUNTER
 
 def count_word():  # définir la fonction pour que le programme compte des mots
